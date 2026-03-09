@@ -34,5 +34,5 @@ Traditional CAE solvers (FEA/CFD) scale at **$O(n^3)$** complexity, creating a m
 ---
 
 ## 🚀 Getting Started
-1.  **Run the Benchmark:** Open `notebooks/cuda_cae_benchmark.ipynb` in Google Colab or NVIDIA AI Workbench.
-2.  **Explore the Specs:** Review `architecture.md` for the system design and `governance.md` for AI safety frameworks.
+1. **Run the Benchmark:** Execute `python scripts/performance_benchmark.py` for a raw CLI output.
+2. **Interactive Walkthrough:** Open `notebooks/cuda_cae_benchmark.ipynb` in Google Colab for visualization.
