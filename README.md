@@ -9,6 +9,8 @@ Traditional CAE solvers (FEA/CFD) scale at **$O(n^3)$** complexity, creating a m
 
 ### 📊 Performance Benchmarks (8k x 8k Matrix)
 
+![Performance Benchmark Visualization](images/performance_benchmark.png)
+
 | Methodology | Compute | Runtime (Avg) | Complexity | Speedup |
 | :--- | :--- | :--- | :--- | :--- |
 | **Classical Solver** | 64-core CPU Cluster | ~3.5 Hours | $O(n^3)$ | Baseline (1x) |
