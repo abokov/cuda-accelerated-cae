@@ -1,0 +1,8 @@
+specVersion: "1.0"
+project:
+  name: "cuda-accelerated-cae"
+  description: "Accelerated CAE surrogate modeling core for NVIDIA AI Workbench"
+  categories: ["Simulation", "HPC", "AI-Surrogate"]
+  vision:
+    - cuda-12.2
+    - python-3.10
