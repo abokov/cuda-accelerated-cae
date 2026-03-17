@@ -1,5 +1,6 @@
-# 🚀 cuda-accelerated-cae: AI Surrogate Modeling Core
 
+# 🚀 cuda-accelerated-cae: AI Surrogate Modeling Core
+ 
 A high-performance framework designed to pivot legacy, CPU-bound Computer-Aided Engineering (CAE) solvers toward GPU-accelerated AI surrogate models. By transitioning from iterative numerical methods to neural inference, this core achieves a generational leap in simulation velocity.
 
 ---
